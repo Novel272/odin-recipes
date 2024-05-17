@@ -1,0 +1,29 @@
+.full{
+    background-color: black;
+    color: rebeccapurple;
+}
+.steps{
+    color: purple;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.chocolate{
+    color: brown;
+    font-size: large;
+    background-color: beige;
+}
+.cocktail{
+    color: red;
+    font-size: large;
+    background-color: aqua;
+}
+.lasagna{
+    color: beige;
+    font-size: large;
+    background-color: brown;
+}
+.salsa{
+    color: green;
+    font-size: large;
+    background-color: aquamarine;
+}
